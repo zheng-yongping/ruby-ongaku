@@ -1,4 +1,5 @@
 require 'ongaku/version'
+require 'ongaku/config'
 require 'ongaku/exception'
 require 'ongaku/ext'
 require 'ongaku/note'
